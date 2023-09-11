@@ -1,5 +1,5 @@
 {
-	"name": "wearerequired/harvest-api-php-client",
+	"name": "roxdigital/harvest-api-php-client",
 	"type": "library",
 	"description": "PHP client library for the Harvest REST API.",
 	"keywords": [
